@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio2.0/static/css/main.018f3c02.css",
-    "main.js": "/portfolio2.0/static/js/main.657b174b.js",
-    "static/media/Frame 4.jpg": "/portfolio2.0/static/media/Frame 4.1e6afa6dae9028a4d06d.jpg",
+    "main.js": "/portfolio2.0/static/js/main.be2c51ea.js",
     "static/media/Frame 5.jpg": "/portfolio2.0/static/media/Frame 5.77f76fb104f98d76561b.jpg",
     "static/media/Frame 1.jpg": "/portfolio2.0/static/media/Frame 1.297630a5c671df59193d.jpg",
+    "static/media/Frame 2.jpg": "/portfolio2.0/static/media/Frame 2.9acdb4ceab75df7dd574.jpg",
     "static/media/Frame 3.jpg": "/portfolio2.0/static/media/Frame 3.523ebc35b0579b6173be.jpg",
     "static/media/Ahsan_Anees_Resume.pdf": "/portfolio2.0/static/media/Ahsan_Anees_Resume.5fc8141166b5fc69dd1d.pdf",
     "static/media/Hello.gif": "/portfolio2.0/static/media/Hello.d93720933c608f6178fb.gif",
@@ -30,10 +30,10 @@
     "static/media/linkedin.svg": "/portfolio2.0/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/portfolio2.0/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "main.018f3c02.css.map": "/portfolio2.0/static/css/main.018f3c02.css.map",
-    "main.657b174b.js.map": "/portfolio2.0/static/js/main.657b174b.js.map"
+    "main.be2c51ea.js.map": "/portfolio2.0/static/js/main.be2c51ea.js.map"
   },
   "entrypoints": [
     "static/css/main.018f3c02.css",
-    "static/js/main.657b174b.js"
+    "static/js/main.be2c51ea.js"
   ]
 }
