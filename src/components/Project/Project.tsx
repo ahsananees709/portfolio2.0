@@ -55,6 +55,7 @@ const projects: ProjectType[] = [
 ];
 
 export function Project() {
+  // Projects File
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
   const [tooltipVisible, setTooltipVisible] = useState<boolean>(false);
   const projectRefs = useRef<(HTMLDivElement | null)[]>([]);
