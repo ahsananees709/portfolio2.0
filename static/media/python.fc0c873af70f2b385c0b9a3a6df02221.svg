@@ -1,0 +1,27 @@
+<svg
+  width="256px"
+  height="256px"
+  viewBox="0 0 256 256"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  preserveAspectRatio="xMidYMid"
+>
+  <g fill="none" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="normal" font-size="none" text-anchor="none" style="mix-blend-mode:normal">
+    <path
+      d="M128 0C57.308 0 0 57.308 0 128S57.308 256 128 256 256 198.692 256 128 198.692 0 128 0Zm0 18.9c60.06 0 109.1 49.04 109.1 109.1S188.06 237.1 128 237.1 18.9 188.06 18.9 128 67.94 18.9 128 18.9Z"
+      fill="#306998"
+    />
+    <path
+      d="M128 9.9c-65.15 0-118.1 52.95-118.1 118.1S62.85 246.1 128 246.1c65.15 0 118.1-52.95 118.1-118.1S193.15 9.9 128 9.9Zm0 18.9c60.06 0 109.1 49.04 109.1 109.1s-49.04 109.1-109.1 109.1-109.1-49.04-109.1-109.1S67.94 28.8 128 28.8Z"
+      fill="#FFD43B"
+    />
+    <path
+      d="M115.3 106.9v-27.5c0-2.6 2.1-4.7 4.7-4.7h21.1c2.6 0 4.7 2.1 4.7 4.7v27.5c0 2.6-2.1 4.7-4.7 4.7h-21.1c-2.6 0-4.7-2.1-4.7-4.7Zm29.2-4.7h-18.7v-18.7h18.7v18.7Z"
+      fill="#FFD43B"
+    />
+    <path
+      d="M137.2 162.8h-21.1c-2.6 0-4.7-2.1-4.7-4.7v-27.5c0-2.6 2.1-4.7 4.7-4.7h21.1c2.6 0 4.7 2.1 4.7 4.7v27.5c0 2.6-2.1 4.7-4.7 4.7Zm-18.7-9.5h18.7v-18.7h-18.7v18.7Z"
+      fill="#306998"
+    />
+  </g>
+</svg>
