@@ -7,7 +7,6 @@ import Modal from '../Modal/Modal';
 import Project1 from '../../assets/Frame 1.jpg'
 import Project2 from '../../assets/Frame 2.jpg'
 import Project3 from '../../assets/Frame 3.jpg'
-import Project4 from '../../assets/Frame 4.jpg'
 import Project5 from '../../assets/Frame 5.jpg'
 
 // Define TypeScript types
@@ -32,7 +31,7 @@ const projects: ProjectType[] = [
   {
     title: 'Gulzar Soft Website',
     description: 'A professional website for a software house, built with Next.js and Tailwind CSS. It features a sleek, responsive design with smooth navigation, optimized performance, and interactive UI elements, enhanced by Toastify notifications.',
-    imageSrc: Project3,
+    imageSrc: Project2,
     techStack: ['Nextjs', 'Tailwind CSS', 'Javascript', 'Toastify'],
     githubLink: 'https://github.com/ahsananees709/gulzarsoftwebsite',
     liveLink: 'https://github.com/ahsananees709/gulzarsoftwebsite'
@@ -40,7 +39,7 @@ const projects: ProjectType[] = [
   {
     title: 'E-Services Replica of Fiver',
     description: 'A mobile app built with React Native and Expo, featuring a sleek interface and integration with various APIs for data retrieval.',
-    imageSrc: Project4,
+    imageSrc: Project3,
     techStack: ['React', 'Node', 'Express', 'Redux', 'Postgressql', 'drizzle', 'socket.io', 'adminpanel'],
     githubLink: 'https://github.com/ahsananees709/e-services',
     liveLink: 'https://github.com/ahsananees709/e-services'
